@@ -2,7 +2,7 @@
 - [#Proste i odcinki](#Proste%20i%20odcinki)
 - [#Kąty](#Kąty)
 - [#Trójkąty](#Trójkąty)
-- [#Przystawanie trójkątów:](#Przystawanie%20trójkątów:)
+- [#Przystawanie trójkątów](#Przystawanie%20trójkątów)
 - [#Czworokąty](#Czworokąty)
 - [#Wielokąty foremne](#Wielokąty%20foremne)
 - [#Jednostki kwadratowe](#Jednostki%20kwadratowe)
