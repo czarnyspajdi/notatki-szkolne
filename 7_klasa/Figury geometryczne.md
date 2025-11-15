@@ -1,13 +1,13 @@
 # Tematy
-- [[#Proste i odcinki]]
-- [[#Kąty]]
-- [[#Trójkąty]]
-- [[#Przystawanie trójkątów:]]
-- [[#Czworokąty]]
-- [[#Wielokąty foremne]]
-- [[#Jednostki kwadratowe]]
-- [[#Pola wielokątów]]
-- [[#Układ współrzędnych]]
+- [#Proste i odcinki](#Proste%20i%20odcinki)
+- [#Kąty](#Kąty)
+- [#Trójkąty](#Trójkąty)
+- [#Przystawanie trójkątów:](#Przystawanie%20trójkątów:)
+- [#Czworokąty](#Czworokąty)
+- [#Wielokąty foremne](#Wielokąty%20foremne)
+- [#Jednostki kwadratowe](#Jednostki%20kwadratowe)
+- [#Pola wielokątów](#Pola%20wielokątów)
+- [#Układ współrzędnych](#Układ%20współrzędnych)
 # Informacje
 ## Proste i odcinki
 - Prosta, półprosta, odcinek

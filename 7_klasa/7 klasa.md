@@ -1,8 +1,8 @@
 # Tematy
-- [[Liczby dodatnie i ujemne]]
-- [[Procenty]]
-- [[Figury geometryczne]]
-- [[Wyrażenia algebraiczne]]
+- [Liczby dodatnie i ujemne](Liczby%20dodatnie%20i%20ujemne.md)
+- [Procenty](Procenty.md)
+- [Figury geometryczne](Figury%20geometryczne.md)
+- [Wyrażenia algebraiczne](Wyrażenia%20algebraiczne.md)
 
 # Fajne źródła
 [szalone liczby - spis treści](https://szaloneliczby.pl/klasa-7/)
