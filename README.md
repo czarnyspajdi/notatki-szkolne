@@ -1,0 +1,1 @@
+Repozytorium z moimi prywatnymi zbiorami zadań, notatkami, informacjami itp. do różnych klas szkoły średniej i podstawowej.
